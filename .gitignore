@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Database
+youtube.db
+
+# Data
+data/*.csv
+!data/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache
+.cache/
+
+# Logs
+*.log
